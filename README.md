@@ -1,5 +1,7 @@
 # notification-wrapper
 
+[![Build Status](https://travis-ci.org/digiaonline/notification-wrapper.svg?branch=master)](https://travis-ci.org/digiaonline/notification-wrapper)
+
 A super-basic wrapper for notifications/messages
 
 ## Installation
